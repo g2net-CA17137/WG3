@@ -1,0 +1,10 @@
+Francesca's talk was entitled **Surrogate Wiener filtering for the prediction and optimized cancellation of Newtonian noise at Virgo**.
+
+The recording of Francesca's presentation is here:
+https://www.dropbox.com/s/1zyw3uav046ozkd/francesca.mp4?dl=0
+
+Advanced Virgo+ will enhance its sensitivity for the upcoming run, O4. This means that Newtonian noise might dominate in the low-frequency band. 
+For this reason, it is critical working to reduce it as well. This will be achieved through active noise cancellation. It is of fundamental importance to 
+understand how to optimally deploy an array of seismic sensors dedicated to active noise cancellation. This talk will present a new technique that allows 
+us to use existent seismic data to construct a surrogate Wiener filter model bypassing all the difficulties related to the computational effort required 
+by the task.
