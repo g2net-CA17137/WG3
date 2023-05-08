@@ -1,2 +1,2 @@
 # WG3
-G2net working group 3
+G2net Working Group 3
