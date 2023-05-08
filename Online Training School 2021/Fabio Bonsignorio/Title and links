@@ -4,3 +4,12 @@ https://drive.google.com/file/d/12A1zEvgtWdOsjn7jv8DTU7kP-NOSFaxk/view
 
 The recording of Fabio's presentation follow bellow:
 https://panopto.abo.fi/Panopto/Pages/Viewer.aspx?id=de028f6b-433d-40a2-94d3-ada600904f23
+
+For the participants
+
+1) (needed) Sign up on this website:https://robotbenchmark.net
+2) (nice to have) You can download webots from here: https://cyberbotics.com/doc/guide/installing-webots
+and install python3 if they didn't already
+3) (nice to have) I will walk the participants through a real world research ROS-Gazebo installation from scratch; you can do the same on your computer; 
+you will need an Ubuntu 18.04 LTS OS either on their computer or in a virtual machine (not recommended). Virtual machine software can be downloaded from 
+here https://www.virtualbox.org/wiki/Downloads. Ubuntu 18.04 LTS can be downloaded from here: https://ubuntu.com/download/alternative-downloads
